@@ -1,4 +1,5 @@
-<img src="https://pin.it/4lerbdk1s" alt="TRL Photo" align="right" width="30%"/>
+<img src="https://pin.it/4lerbdk1s.png" alt="TRL Photo" align="right" width="30%"/>
+
 # _Thu Rein Lin_
 > _IT student_<br />
 > Payap University, Department of Computer Science<br />
