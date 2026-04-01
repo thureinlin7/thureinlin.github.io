@@ -1,5 +1,5 @@
-<img src="https://pin.it/4lerbdk1s" alt="RPB Photo" align="right" width="30%"/>
-# _Robert P Batzinger_
+<img src="https://pin.it/4lerbdk1s" alt="TRL Photo" align="right" width="30%"/>
+# _Thu Rein Lin_
 > _Praeceptor Emeritus_<br />
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
