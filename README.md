@@ -1,2 +1,2 @@
-# thureinlin.github.io
+# thureinlinn7.github.io
 🫶🏻
