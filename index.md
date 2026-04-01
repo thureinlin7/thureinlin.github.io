@@ -1,6 +1,6 @@
 <img src="https://pin.it/4lerbdk1s" alt="TRL Photo" align="right" width="30%"/>
 # _Thu Rein Lin_
-> _Praeceptor Emeritus_<br />
+> _IT student_<br />
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
