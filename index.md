@@ -5,8 +5,7 @@
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
+> Professional Network Engineer with over 6 years of hands-on experience in ISP and IGW operations across Singapore and Myanmar. Specialized in routing & switching, network monitoring, and performance optimization. Adept at managing large-scale network systems, resolving critical incidents, and delivering reliable and secure connectivity. Passionate about continuous learning, emerging network technologies, and improving system efficiency
 
 # Education
 * SB Chemistry - Massachusetts Institute of Technology
