@@ -1,4 +1,4 @@
-<img src="https://pin.it/4lerbdk1s.png" alt="TRL Photo" align="right" width="30%"/>
+<img src="IMG_6472.jpeg" alt="TRL Photo" align="right" width="30%"/>
 
 # _Thu Rein Lin_
 > _IT student_<br />
