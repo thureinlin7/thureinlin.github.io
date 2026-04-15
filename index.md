@@ -8,40 +8,30 @@
 > Professional Network Engineer with over 6 years of hands-on experience in ISP and IGW operations across Singapore and Myanmar. Specialized in routing & switching, network monitoring, and performance optimization. Adept at managing large-scale network systems, resolving critical incidents, and delivering reliable and secure connectivity. Passionate about continuous learning, emerging network technologies, and improving system efficiency
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Bachelor of English - Dagon University
+* Bachelor of Science - University of Greenwich
+* BTEC Level 5 HND Diploma in Computing & Systems Development - Myanmar Noble University
+* CCNA (Cisco Certified Network Associate) - Cisco
+* CCNP (Cisco Certified Network Professional) - Cisco
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* Network Engineer
+* Mangager (Network Operation Center) - Campana Group Private Limited
+* Campana Group Private Limited (ISP & IGW)
+* Over 6 years of experience
+
+# Responsibilities:
+* Manage and maintain ISP and IGW network infrastructure
+* Configure and troubleshoot network devices including Cisco, Huawei, and Juniper
+* Monitor network performance and ensure high availability
+* Handle customer connectivity issues and provide technical support
+* Perform network optimization and bandwidth management
 
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
-
-# Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+* Networking and new technologies
+* System and network security
+* Learning advanced networking skills
+* Problem-solving and troubleshooting
 
 # Contact Info
 * [Web Page](https://rbatzing.github.io)
