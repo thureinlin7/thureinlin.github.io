@@ -34,5 +34,5 @@
 * Problem-solving and troubleshooting
 
 # Contact Info
-* [Web Page](https://github.com/thureinlin7/thureinlin.github.io/blob/main/index.md)
+* [Web Page](https://thureinlin7.github.io/thureinlin.github.io/)
 * [Instagram](https://www.instagram.com/tinkyjerry?igsh=Zjd3YTA0NjMzeWlx&utm_source=qr)
